@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+// import App from './App';
 import reportWebVitals from './reportWebVitals';
 import * as serviceWorkerRegistration from './serviceWorkerRegistration';
-import StrainList from './components/strainList/StrainList';
+// import StrainList from './components/strainList/StrainList';
 import StrainKushy from './components/kushyApi/StrainKushy';
 
 ReactDOM.render(

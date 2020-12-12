@@ -6,7 +6,7 @@ const StrainList = () => {
 const [getInfo, setGetInfo] = useState({name:'', race:'', desc:'', id:''})
 const [inputRes, setInputRes] = useState("")
 const [isLoading, setIsLoading] = useState(true)
-const {REACT_APP_API_KEY, REACT_APP_STRAIN_URL} = process.env
+// const {REACT_APP_API_KEY, REACT_APP_STRAIN_URL} = process.env
 
 
 useEffect(() => {
